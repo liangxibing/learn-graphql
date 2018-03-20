@@ -1,0 +1,27 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "description": "demo with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangxibing/learn-graphql.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Simon Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangxibing/learn-graphql/issues"
+  },
+  "homepage": "https://github.com/liangxibing/learn-graphql#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2"
+  }
+}
